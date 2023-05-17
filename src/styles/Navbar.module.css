@@ -1,0 +1,18 @@
+.title{
+    color: #e63946;
+}
+.sing_up_btn{
+    background-color: #e63946;
+}
+
+.sing_up_btn:hover{
+    background-color: #e63946;
+    transform: scale(1.04);
+    transition: all ease-in 0.3;
+}
+.media_dp:hover{
+    background-color: #fff;
+}
+.links > a{
+    padding: 0 0.125rem;
+}
